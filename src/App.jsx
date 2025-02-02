@@ -4,7 +4,7 @@ import {
 } from 'react-router-dom'; 
 import './App.css';
 import HomePage from './pages/HomePage';
-import AboutPage from './pages/Aboutpage';
+import AboutPage from './pages/AboutPage';
 import ArticlesPage, { loader as ArticleLoader } from './pages/ArticlesPage';
 import ArticlesListPage from './pages/ArticlesListPage';
 import Layout from './Layout';
